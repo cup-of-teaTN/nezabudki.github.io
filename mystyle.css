@@ -1,0 +1,31 @@
+* {
+	background-color: #7A7F87;
+} 	
+
+ul {
+	list-style-type: none;
+}
+
+ul li::before {
+	content: "\2022";
+	color: #FFFFFF;
+}
+
+h1 {
+	text-align: center;
+	color: #B3BFFF;
+}
+
+#a1 {
+   font-size: 20px;
+   color: #B3BFFF;
+   font-style: italic;
+}
+ 
+#b1 {
+	text-align: center;
+}
+
+#c1 {
+	margin-top: 10px;
+}
